@@ -21,6 +21,7 @@ public class NewPalindrome {
 
         {
             System.out.println("Palindrom string");
+            System.out.println("Palindrom string");
         }
 
     }
